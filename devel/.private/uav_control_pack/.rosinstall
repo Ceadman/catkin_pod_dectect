@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/catkin_pod_dectect/devel/.private/uav_control_pack/setup.sh
