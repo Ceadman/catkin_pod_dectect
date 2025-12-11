@@ -1,0 +1,20 @@
+<launch>
+        <node pkg="target_detection"
+          type="pod_image_receive.py"
+          name="pod_image_receive"
+          output="screen" />   
+
+        <node pkg="target_detection"
+          type="yolo_detect.py"
+          name="yolo_detect" />
+
+        <node pkg="target_detection"
+          type="solution_and_control.py"
+          name="solution_and_control"
+          output="screen" />   
+          
+        <!-- <node pkg="target_detection"
+          type="set_mode"
+          name="set_mode"
+          />    -->
+</launch>

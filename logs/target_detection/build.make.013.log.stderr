@@ -1,0 +1,1362 @@
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:7:3:[m[K [01;31m[Kerror: [m[Kinvalid preprocessing directive #basic
+    7 | # [01;31m[Kbasic[m[K modes from MAV_MODE
+      |   [01;31m[K^~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:20:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K#[m[K’ in program
+   20 | uint8 base_mode [01;31m[K#[m[K filled by MAV_MODE enum value or 0 if custom_mode != ''
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:20:72:[m[K [01;31m[Kerror: [m[Kempty character constant
+   20 | uint8 base_mode # filled by MAV_MODE enum value or 0 if custom_mode != [01;31m[K''[m[K
+      |                                                                        [01;31m[K^~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:21:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K#[m[K’ in program
+   21 | string custom_mode [01;31m[K#[m[K string mode representation or integer
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   26 | String[01;31m[K�[m[K��型的变量custom_mode就是我们想切换的模式，有如下选择：
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\261[m[K’ in program
+   26 | String�[01;31m[K�[m[K�型的变量custom_mode就是我们想切换的模式，有如下选择：
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\273[m[K’ in program
+   26 | String�[01;31m[K�[m[K型的变量custom_mode就是我们想切换的模式，有如下选择：
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类[01;31m[K�[m[K��的变量custom_mode就是我们想切换的模式，有如下选择：
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\236[m[K’ in program
+   26 | String类�[01;31m[K�[m[K�的变量custom_mode就是我们想切换的模式，有如下选择：
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   26 | String类�[01;31m[K�[m[K的变量custom_mode就是我们想切换的模式，有如下选择：
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   26 | String类型[01;31m[K�[m[K��变量custom_mode就是我们想切换的模式，有如下选择：
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   26 | String类型�[01;31m[K�[m[K�变量custom_mode就是我们想切换的模式，有如下选择：
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\204[m[K’ in program
+   26 | String类型�[01;31m[K�[m[K变量custom_mode就是我们想切换的模式，有如下选择：
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类型的[01;31m[K�[m[K��量custom_mode就是我们想切换的模式，有如下选择：
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\217[m[K’ in program
+   26 | String类型的�[01;31m[K�[m[K�量custom_mode就是我们想切换的模式，有如下选择：
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\230[m[K’ in program
+   26 | String类型的�[01;31m[K�[m[K量custom_mode就是我们想切换的模式，有如下选择：
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\351[m[K’ in program
+   26 | String类型的变[01;31m[K�[m[K��custom_mode就是我们想切换的模式，有如下选择：
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\207[m[K’ in program
+   26 | String类型的变�[01;31m[K�[m[K�custom_mode就是我们想切换的模式，有如下选择：
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\217[m[K’ in program
+   26 | String类型的变�[01;31m[K�[m[Kcustom_mode就是我们想切换的模式，有如下选择：
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类型的变量custom_mode[01;31m[K�[m[K��是我们想切换的模式，有如下选择：
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\260[m[K’ in program
+   26 | String类型的变量custom_mode�[01;31m[K�[m[K�是我们想切换的模式，有如下选择：
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\261[m[K’ in program
+   26 | String类型的变量custom_mode�[01;31m[K�[m[K是我们想切换的模式，有如下选择：
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就[01;31m[K�[m[K��我们想切换的模式，有如下选择：
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\230[m[K’ in program
+   26 | String类型的变量custom_mode就�[01;31m[K�[m[K�我们想切换的模式，有如下选择：
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:38:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   26 | String类型的变量custom_mode就�[01;31m[K�[m[K我们想切换的模式，有如下选择：
+      |                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:39:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是[01;31m[K�[m[K��们想切换的模式，有如下选择：
+      |                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:40:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\210[m[K’ in program
+   26 | String类型的变量custom_mode就是�[01;31m[K�[m[K�们想切换的模式，有如下选择：
+      |                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:41:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\221[m[K’ in program
+   26 | String类型的变量custom_mode就是�[01;31m[K�[m[K们想切换的模式，有如下选择：
+      |                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:42:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   26 | String类型的变量custom_mode就是我[01;31m[K�[m[K��想切换的模式，有如下选择：
+      |                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\273[m[K’ in program
+   26 | String类型的变量custom_mode就是我�[01;31m[K�[m[K�想切换的模式，有如下选择：
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\254[m[K’ in program
+   26 | String类型的变量custom_mode就是我�[01;31m[K�[m[K想切换的模式，有如下选择：
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是我们[01;31m[K�[m[K��切换的模式，有如下选择：
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:46:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\203[m[K’ in program
+   26 | String类型的变量custom_mode就是我们�[01;31m[K�[m[K�切换的模式，有如下选择：
+      |                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\263[m[K’ in program
+   26 | String类型的变量custom_mode就是我们�[01;31m[K�[m[K切换的模式，有如下选择：
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想[01;31m[K�[m[K��换的模式，有如下选择：
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\210[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想�[01;31m[K�[m[K�换的模式，有如下选择：
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:50:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\207[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想�[01;31m[K�[m[K换的模式，有如下选择：
+      |                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:51:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切[01;31m[K�[m[K��的模式，有如下选择：
+      |                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:52:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\215[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切�[01;31m[K�[m[K�的模式，有如下选择：
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:53:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\242[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切�[01;31m[K�[m[K的模式，有如下选择：
+      |                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:54:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换[01;31m[K�[m[K��模式，有如下选择：
+      |                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:55:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换�[01;31m[K�[m[K�模式，有如下选择：
+      |                                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:56:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\204[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换�[01;31m[K�[m[K模式，有如下选择：
+      |                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:57:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的[01;31m[K�[m[K��式，有如下选择：
+      |                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:58:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的�[01;31m[K�[m[K�式，有如下选择：
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:59:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的�[01;31m[K�[m[K式，有如下选择：
+      |                                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:60:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模[01;31m[K�[m[K��，有如下选择：
+      |                                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:61:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模�[01;31m[K�[m[K�，有如下选择：
+      |                                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:62:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\217[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模�[01;31m[K�[m[K，有如下选择：
+      |                                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:63:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式[01;31m[K�[m[K��有如下选择：
+      |                                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:64:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式�[01;31m[K�[m[K�有如下选择：
+      |                                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:65:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式�[01;31m[K�[m[K有如下选择：
+      |                                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:66:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，[01;31m[K�[m[K��如下选择：
+      |                                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:67:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\234[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，�[01;31m[K�[m[K�如下选择：
+      |                                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:68:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，�[01;31m[K�[m[K如下选择：
+      |                                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:69:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有[01;31m[K�[m[K��下选择：
+      |                                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:70:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\246[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有�[01;31m[K�[m[K�下选择：
+      |                                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:71:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\202[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有�[01;31m[K�[m[K下选择：
+      |                                                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:72:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如[01;31m[K�[m[K��选择：
+      |                                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:73:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\270[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如�[01;31m[K�[m[K�选择：
+      |                                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:74:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如�[01;31m[K�[m[K选择：
+      |                                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:75:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\351[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下[01;31m[K�[m[K��择：
+      |                                                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:76:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\200[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下�[01;31m[K�[m[K�择：
+      |                                                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:77:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下�[01;31m[K�[m[K择：
+      |                                                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:78:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选[01;31m[K�[m[K��：
+      |                                                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:79:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选�[01;31m[K�[m[K�：
+      |                                                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:80:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\251[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选�[01;31m[K�[m[K：
+      |                                                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:81:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选择[01;31m[K�[m[K��
+      |                                                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:82:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选择�[01;31m[K�[m[K�
+      |                                                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:26:83:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   26 | String类型的变量custom_mode就是我们想切换的模式，有如下选择�[01;31m[K�[m[K
+      |                                                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL[01;31m[K�[m[K��ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL�[01;31m[K�[m[K�ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL�[01;31m[K�[m[KACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO[01;31m[K�[m[K��ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO�[01;31m[K�[m[K�ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO�[01;31m[K�[m[KALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL[01;31m[K�[m[K��POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL�[01;31m[K�[m[K�POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL�[01;31m[K�[m[KPOSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL[01;31m[K�[m[K��OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL�[01;31m[K�[m[K�OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL�[01;31m[K�[m[KOFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD[01;31m[K�[m[K��STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD�[01;31m[K�[m[K�STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD�[01;31m[K�[m[KSTABILIZED，RATTITUDE，AUTO.MISSION
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:56:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED[01;31m[K�[m[K��RATTITUDE，AUTO.MISSION
+      |                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:57:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED�[01;31m[K�[m[K�RATTITUDE，AUTO.MISSION
+      |                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:58:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED�[01;31m[K�[m[KRATTITUDE，AUTO.MISSION
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:68:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE[01;31m[K�[m[K��AUTO.MISSION
+      |                                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:69:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE�[01;31m[K�[m[K�AUTO.MISSION
+      |                                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:27:70:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   27 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE�[01;31m[K�[m[KAUTO.MISSION
+      |                                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   28 | AUTO.LOITER[01;31m[K�[m[K��AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   28 | AUTO.LOITER�[01;31m[K�[m[K�AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   28 | AUTO.LOITER�[01;31m[K�[m[KAUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL[01;31m[K�[m[K��AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL�[01;31m[K�[m[K�AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL�[01;31m[K�[m[KAUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND[01;31m[K�[m[K��AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND�[01;31m[K�[m[K�AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND�[01;31m[K�[m[KAUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS[01;31m[K�[m[K��AUTO.READY，AUTO.TAKEOFF
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS�[01;31m[K�[m[K�AUTO.READY，AUTO.TAKEOFF
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS�[01;31m[K�[m[KAUTO.READY，AUTO.TAKEOFF
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:60:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY[01;31m[K�[m[K��AUTO.TAKEOFF
+      |                                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:61:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY�[01;31m[K�[m[K�AUTO.TAKEOFF
+      |                                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:28:62:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   28 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY�[01;31m[K�[m[KAUTO.TAKEOFF
+      |                                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:1:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   37 | [01;31m[K�[m[K��析如下：
+      | [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:2:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\247[m[K’ in program
+   37 | �[01;31m[K�[m[K�析如下：
+      |  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:3:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\243[m[K’ in program
+   37 | �[01;31m[K�[m[K析如下：
+      |   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:4:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   37 | 解[01;31m[K�[m[K��如下：
+      |    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:5:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\236[m[K’ in program
+   37 | 解�[01;31m[K�[m[K�如下：
+      |     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:6:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\220[m[K’ in program
+   37 | 解�[01;31m[K�[m[K如下：
+      |      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   37 | 解析[01;31m[K�[m[K��下：
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\246[m[K’ in program
+   37 | 解析�[01;31m[K�[m[K�下：
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\202[m[K’ in program
+   37 | 解析�[01;31m[K�[m[K下：
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   37 | 解析如[01;31m[K�[m[K��：
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\270[m[K’ in program
+   37 | 解析如�[01;31m[K�[m[K�：
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   37 | 解析如�[01;31m[K�[m[K：
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   37 | 解析如下[01;31m[K�[m[K��
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   37 | 解析如下�[01;31m[K�[m[K�
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:37:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   37 | 解析如下�[01;31m[K�[m[K
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   38 | header[01;31m[K�[m[K��消息头，包含时间戳和框架信息；
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   38 | header�[01;31m[K�[m[K�消息头，包含时间戳和框架信息；
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   38 | header�[01;31m[K�[m[K消息头，包含时间戳和框架信息；
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：[01;31m[K�[m[K��息头，包含时间戳和框架信息；
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\266[m[K’ in program
+   38 | header：�[01;31m[K�[m[K�息头，包含时间戳和框架信息；
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\210[m[K’ in program
+   38 | header：�[01;31m[K�[m[K息头，包含时间戳和框架信息；
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消[01;31m[K�[m[K��头，包含时间戳和框架信息；
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\201[m[K’ in program
+   38 | header：消�[01;31m[K�[m[K�头，包含时间戳和框架信息；
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   38 | header：消�[01;31m[K�[m[K头，包含时间戳和框架信息；
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   38 | header：消息[01;31m[K�[m[K��，包含时间戳和框架信息；
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   38 | header：消息�[01;31m[K�[m[K�，包含时间戳和框架信息；
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\264[m[K’ in program
+   38 | header：消息�[01;31m[K�[m[K，包含时间戳和框架信息；
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   38 | header：消息头[01;31m[K�[m[K��包含时间戳和框架信息；
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   38 | header：消息头�[01;31m[K�[m[K�包含时间戳和框架信息；
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   38 | header：消息头�[01;31m[K�[m[K包含时间戳和框架信息；
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:22:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   38 | header：消息头，[01;31m[K�[m[K��含时间戳和框架信息；
+      |                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   38 | header：消息头，�[01;31m[K�[m[K�含时间戳和框架信息；
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\205[m[K’ in program
+   38 | header：消息头，�[01;31m[K�[m[K含时间戳和框架信息；
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   38 | header：消息头，包[01;31m[K�[m[K��时间戳和框架信息；
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:26:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\220[m[K’ in program
+   38 | header：消息头，包�[01;31m[K�[m[K�时间戳和框架信息；
+      |                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:27:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\253[m[K’ in program
+   38 | header：消息头，包�[01;31m[K�[m[K时间戳和框架信息；
+      |                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:28:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消息头，包含[01;31m[K�[m[K��间戳和框架信息；
+      |                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:29:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\227[m[K’ in program
+   38 | header：消息头，包含�[01;31m[K�[m[K�间戳和框架信息；
+      |                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\266[m[K’ in program
+   38 | header：消息头，包含�[01;31m[K�[m[K间戳和框架信息；
+      |                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:31:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\351[m[K’ in program
+   38 | header：消息头，包含时[01;31m[K�[m[K��戳和框架信息；
+      |                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\227[m[K’ in program
+   38 | header：消息头，包含时�[01;31m[K�[m[K�戳和框架信息；
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\264[m[K’ in program
+   38 | header：消息头，包含时�[01;31m[K�[m[K戳和框架信息；
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消息头，包含时间[01;31m[K�[m[K��和框架信息；
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\210[m[K’ in program
+   38 | header：消息头，包含时间�[01;31m[K�[m[K�和框架信息；
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\263[m[K’ in program
+   38 | header：消息头，包含时间�[01;31m[K�[m[K和框架信息；
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   38 | header：消息头，包含时间戳[01;31m[K�[m[K��框架信息；
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:38:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\222[m[K’ in program
+   38 | header：消息头，包含时间戳�[01;31m[K�[m[K�框架信息；
+      |                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:39:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   38 | header：消息头，包含时间戳�[01;31m[K�[m[K框架信息；
+      |                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:40:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消息头，包含时间戳和[01;31m[K�[m[K��架信息；
+      |                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:41:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   38 | header：消息头，包含时间戳和�[01;31m[K�[m[K�架信息；
+      |                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:42:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\206[m[K’ in program
+   38 | header：消息头，包含时间戳和�[01;31m[K�[m[K架信息；
+      |                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消息头，包含时间戳和框[01;31m[K�[m[K��信息；
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\236[m[K’ in program
+   38 | header：消息头，包含时间戳和框�[01;31m[K�[m[K�信息；
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\266[m[K’ in program
+   38 | header：消息头，包含时间戳和框�[01;31m[K�[m[K信息；
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:46:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   38 | header：消息头，包含时间戳和框架[01;31m[K�[m[K��息；
+      |                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\277[m[K’ in program
+   38 | header：消息头，包含时间戳和框架�[01;31m[K�[m[K�息；
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   38 | header：消息头，包含时间戳和框架�[01;31m[K�[m[K息；
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信[01;31m[K�[m[K��；
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:50:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\201[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信�[01;31m[K�[m[K�；
+      |                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:51:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信�[01;31m[K�[m[K；
+      |                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:52:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信息[01;31m[K�[m[K��
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:53:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信息�[01;31m[K�[m[K�
+      |                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:54:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\233[m[K’ in program
+   38 | header：消息头，包含时间戳和框架信息�[01;31m[K�[m[K
+      |                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   39 | connected[01;31m[K�[m[K��表示是否连接到了 mavros 节点；
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   39 | connected�[01;31m[K�[m[K�表示是否连接到了 mavros 节点；
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   39 | connected�[01;31m[K�[m[K表示是否连接到了 mavros 节点；
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   39 | connected：[01;31m[K�[m[K��示是否连接到了 mavros 节点；
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   39 | connected：�[01;31m[K�[m[K�示是否连接到了 mavros 节点；
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   39 | connected：�[01;31m[K�[m[K示是否连接到了 mavros 节点；
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   39 | connected：表[01;31m[K�[m[K��是否连接到了 mavros 节点；
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   39 | connected：表�[01;31m[K�[m[K�是否连接到了 mavros 节点；
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   39 | connected：表�[01;31m[K�[m[K是否连接到了 mavros 节点；
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   39 | connected：表示[01;31m[K�[m[K��否连接到了 mavros 节点；
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\230[m[K’ in program
+   39 | connected：表示�[01;31m[K�[m[K�否连接到了 mavros 节点；
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   39 | connected：表示�[01;31m[K�[m[K否连接到了 mavros 节点；
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:22:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   39 | connected：表示是[01;31m[K�[m[K��连接到了 mavros 节点；
+      |                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\220[m[K’ in program
+   39 | connected：表示是�[01;31m[K�[m[K�连接到了 mavros 节点；
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\246[m[K’ in program
+   39 | connected：表示是�[01;31m[K�[m[K连接到了 mavros 节点；
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   39 | connected：表示是否[01;31m[K�[m[K��接到了 mavros 节点；
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:26:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\277[m[K’ in program
+   39 | connected：表示是否�[01;31m[K�[m[K�接到了 mavros 节点；
+      |                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:27:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\236[m[K’ in program
+   39 | connected：表示是否�[01;31m[K�[m[K接到了 mavros 节点；
+      |                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:28:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   39 | connected：表示是否连[01;31m[K�[m[K��到了 mavros 节点；
+      |                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:29:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\216[m[K’ in program
+   39 | connected：表示是否连�[01;31m[K�[m[K�到了 mavros 节点；
+      |                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\245[m[K’ in program
+   39 | connected：表示是否连�[01;31m[K�[m[K到了 mavros 节点；
+      |                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:31:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   39 | connected：表示是否连接[01;31m[K�[m[K��了 mavros 节点；
+      |                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\210[m[K’ in program
+   39 | connected：表示是否连接�[01;31m[K�[m[K�了 mavros 节点；
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\260[m[K’ in program
+   39 | connected：表示是否连接�[01;31m[K�[m[K了 mavros 节点；
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   39 | connected：表示是否连接到[01;31m[K�[m[K�� mavros 节点；
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   39 | connected：表示是否连接到�[01;31m[K�[m[K� mavros 节点；
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\206[m[K’ in program
+   39 | connected：表示是否连接到�[01;31m[K�[m[K mavros 节点；
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   39 | connected：表示是否连接到了 mavros [01;31m[K�[m[K��点；
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:46:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\212[m[K’ in program
+   39 | connected：表示是否连接到了 mavros �[01;31m[K�[m[K�点；
+      |                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\202[m[K’ in program
+   39 | connected：表示是否连接到了 mavros �[01;31m[K�[m[K点；
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节[01;31m[K�[m[K��；
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\202[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节�[01;31m[K�[m[K�；
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:50:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\271[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节�[01;31m[K�[m[K；
+      |                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:51:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节点[01;31m[K�[m[K��
+      |                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:52:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节点�[01;31m[K�[m[K�
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:39:53:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\233[m[K’ in program
+   39 | connected：表示是否连接到了 mavros 节点�[01;31m[K�[m[K
+      |                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:6:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   40 | armed[01;31m[K�[m[K��表示无人机当前是否上锁；
+      |      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   40 | armed�[01;31m[K�[m[K�表示无人机当前是否上锁；
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   40 | armed�[01;31m[K�[m[K表示无人机当前是否上锁；
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   40 | armed：[01;31m[K�[m[K��示无人机当前是否上锁；
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   40 | armed：�[01;31m[K�[m[K�示无人机当前是否上锁；
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   40 | armed：�[01;31m[K�[m[K示无人机当前是否上锁；
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   40 | armed：表[01;31m[K�[m[K��无人机当前是否上锁；
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   40 | armed：表�[01;31m[K�[m[K�无人机当前是否上锁；
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   40 | armed：表�[01;31m[K�[m[K无人机当前是否上锁；
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   40 | armed：表示[01;31m[K�[m[K��人机当前是否上锁；
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\227[m[K’ in program
+   40 | armed：表示�[01;31m[K�[m[K�人机当前是否上锁；
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\240[m[K’ in program
+   40 | armed：表示�[01;31m[K�[m[K人机当前是否上锁；
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   40 | armed：表示无[01;31m[K�[m[K��机当前是否上锁；
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   40 | armed：表示无�[01;31m[K�[m[K�机当前是否上锁；
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   40 | armed：表示无�[01;31m[K�[m[K机当前是否上锁；
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   40 | armed：表示无人[01;31m[K�[m[K��当前是否上锁；
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:22:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\234[m[K’ in program
+   40 | armed：表示无人�[01;31m[K�[m[K�当前是否上锁；
+      |                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   40 | armed：表示无人�[01;31m[K�[m[K当前是否上锁；
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   40 | armed：表示无人机[01;31m[K�[m[K��前是否上锁；
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\275[m[K’ in program
+   40 | armed：表示无人机�[01;31m[K�[m[K�前是否上锁；
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:26:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\223[m[K’ in program
+   40 | armed：表示无人机�[01;31m[K�[m[K前是否上锁；
+      |                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:27:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   40 | armed：表示无人机当[01;31m[K�[m[K��是否上锁；
+      |                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:28:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   40 | armed：表示无人机当�[01;31m[K�[m[K�是否上锁；
+      |                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:29:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\215[m[K’ in program
+   40 | armed：表示无人机当�[01;31m[K�[m[K是否上锁；
+      |                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   40 | armed：表示无人机当前[01;31m[K�[m[K��否上锁；
+      |                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:31:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\230[m[K’ in program
+   40 | armed：表示无人机当前�[01;31m[K�[m[K�否上锁；
+      |                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   40 | armed：表示无人机当前�[01;31m[K�[m[K否上锁；
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   40 | armed：表示无人机当前是[01;31m[K�[m[K��上锁；
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\220[m[K’ in program
+   40 | armed：表示无人机当前是�[01;31m[K�[m[K�上锁；
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\246[m[K’ in program
+   40 | armed：表示无人机当前是�[01;31m[K�[m[K上锁；
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   40 | armed：表示无人机当前是否[01;31m[K�[m[K��锁；
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\270[m[K’ in program
+   40 | armed：表示无人机当前是否�[01;31m[K�[m[K�锁；
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:38:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\212[m[K’ in program
+   40 | armed：表示无人机当前是否�[01;31m[K�[m[K锁；
+      |                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:39:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\351[m[K’ in program
+   40 | armed：表示无人机当前是否上[01;31m[K�[m[K��；
+      |                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:40:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\224[m[K’ in program
+   40 | armed：表示无人机当前是否上�[01;31m[K�[m[K�；
+      |                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:41:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\201[m[K’ in program
+   40 | armed：表示无人机当前是否上�[01;31m[K�[m[K；
+      |                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:42:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   40 | armed：表示无人机当前是否上锁[01;31m[K�[m[K��
+      |                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   40 | armed：表示无人机当前是否上锁�[01;31m[K�[m[K�
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:40:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\233[m[K’ in program
+   40 | armed：表示无人机当前是否上锁�[01;31m[K�[m[K
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   41 | guided[01;31m[K�[m[K��表示无人机当前是否处于 GUIDED 模式；
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   41 | guided�[01;31m[K�[m[K�表示无人机当前是否处于 GUIDED 模式；
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   41 | guided�[01;31m[K�[m[K表示无人机当前是否处于 GUIDED 模式；
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   41 | guided：[01;31m[K�[m[K��示无人机当前是否处于 GUIDED 模式；
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   41 | guided：�[01;31m[K�[m[K�示无人机当前是否处于 GUIDED 模式；
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   41 | guided：�[01;31m[K�[m[K示无人机当前是否处于 GUIDED 模式；
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   41 | guided：表[01;31m[K�[m[K��无人机当前是否处于 GUIDED 模式；
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   41 | guided：表�[01;31m[K�[m[K�无人机当前是否处于 GUIDED 模式；
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   41 | guided：表�[01;31m[K�[m[K无人机当前是否处于 GUIDED 模式；
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   41 | guided：表示[01;31m[K�[m[K��人机当前是否处于 GUIDED 模式；
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\227[m[K’ in program
+   41 | guided：表示�[01;31m[K�[m[K�人机当前是否处于 GUIDED 模式；
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\240[m[K’ in program
+   41 | guided：表示�[01;31m[K�[m[K人机当前是否处于 GUIDED 模式；
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   41 | guided：表示无[01;31m[K�[m[K��机当前是否处于 GUIDED 模式；
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   41 | guided：表示无�[01;31m[K�[m[K�机当前是否处于 GUIDED 模式；
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   41 | guided：表示无�[01;31m[K�[m[K机当前是否处于 GUIDED 模式；
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:22:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   41 | guided：表示无人[01;31m[K�[m[K��当前是否处于 GUIDED 模式；
+      |                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\234[m[K’ in program
+   41 | guided：表示无人�[01;31m[K�[m[K�当前是否处于 GUIDED 模式；
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   41 | guided：表示无人�[01;31m[K�[m[K当前是否处于 GUIDED 模式；
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   41 | guided：表示无人机[01;31m[K�[m[K��前是否处于 GUIDED 模式；
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:26:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\275[m[K’ in program
+   41 | guided：表示无人机�[01;31m[K�[m[K�前是否处于 GUIDED 模式；
+      |                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:27:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\223[m[K’ in program
+   41 | guided：表示无人机�[01;31m[K�[m[K前是否处于 GUIDED 模式；
+      |                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:28:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   41 | guided：表示无人机当[01;31m[K�[m[K��是否处于 GUIDED 模式；
+      |                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:29:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   41 | guided：表示无人机当�[01;31m[K�[m[K�是否处于 GUIDED 模式；
+      |                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\215[m[K’ in program
+   41 | guided：表示无人机当�[01;31m[K�[m[K是否处于 GUIDED 模式；
+      |                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:31:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   41 | guided：表示无人机当前[01;31m[K�[m[K��否处于 GUIDED 模式；
+      |                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\230[m[K’ in program
+   41 | guided：表示无人机当前�[01;31m[K�[m[K�否处于 GUIDED 模式；
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\257[m[K’ in program
+   41 | guided：表示无人机当前�[01;31m[K�[m[K否处于 GUIDED 模式；
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   41 | guided：表示无人机当前是[01;31m[K�[m[K��处于 GUIDED 模式；
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\220[m[K’ in program
+   41 | guided：表示无人机当前是�[01;31m[K�[m[K�处于 GUIDED 模式；
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\246[m[K’ in program
+   41 | guided：表示无人机当前是�[01;31m[K�[m[K处于 GUIDED 模式；
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   41 | guided：表示无人机当前是否[01;31m[K�[m[K��于 GUIDED 模式；
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:38:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   41 | guided：表示无人机当前是否�[01;31m[K�[m[K�于 GUIDED 模式；
+      |                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:39:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\204[m[K’ in program
+   41 | guided：表示无人机当前是否�[01;31m[K�[m[K于 GUIDED 模式；
+      |                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:40:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   41 | guided：表示无人机当前是否处[01;31m[K�[m[K�� GUIDED 模式；
+      |                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:41:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   41 | guided：表示无人机当前是否处�[01;31m[K�[m[K� GUIDED 模式；
+      |                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:42:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\216[m[K’ in program
+   41 | guided：表示无人机当前是否处�[01;31m[K�[m[K GUIDED 模式；
+      |                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:51:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED [01;31m[K�[m[K��式；
+      |                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:52:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED �[01;31m[K�[m[K�式；
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:53:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED �[01;31m[K�[m[K式；
+      |                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:54:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模[01;31m[K�[m[K��；
+      |                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:55:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模�[01;31m[K�[m[K�；
+      |                                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:56:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\217[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模�[01;31m[K�[m[K；
+      |                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:57:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模式[01;31m[K�[m[K��
+      |                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:58:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模式�[01;31m[K�[m[K�
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:41:59:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\233[m[K’ in program
+   41 | guided：表示无人机当前是否处于 GUIDED 模式�[01;31m[K�[m[K
+      |                                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:5:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   42 | mode[01;31m[K�[m[K��表示当前无人机所处的模式，包括以下几种：
+      |     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:6:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   42 | mode�[01;31m[K�[m[K�表示当前无人机所处的模式，包括以下几种：
+      |      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   42 | mode�[01;31m[K�[m[K表示当前无人机所处的模式，包括以下几种：
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\350[m[K’ in program
+   42 | mode：[01;31m[K�[m[K��示当前无人机所处的模式，包括以下几种：
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   42 | mode：�[01;31m[K�[m[K�示当前无人机所处的模式，包括以下几种：
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:10:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   42 | mode：�[01;31m[K�[m[K示当前无人机所处的模式，包括以下几种：
+      |          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:11:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   42 | mode：表[01;31m[K�[m[K��当前无人机所处的模式，包括以下几种：
+      |           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   42 | mode：表�[01;31m[K�[m[K�当前无人机所处的模式，包括以下几种：
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   42 | mode：表�[01;31m[K�[m[K当前无人机所处的模式，包括以下几种：
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示[01;31m[K�[m[K��前无人机所处的模式，包括以下几种：
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\275[m[K’ in program
+   42 | mode：表示�[01;31m[K�[m[K�前无人机所处的模式，包括以下几种：
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\223[m[K’ in program
+   42 | mode：表示�[01;31m[K�[m[K前无人机所处的模式，包括以下几种：
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:17:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示当[01;31m[K�[m[K��无人机所处的模式，包括以下几种：
+      |                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:18:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   42 | mode：表示当�[01;31m[K�[m[K�无人机所处的模式，包括以下几种：
+      |                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:19:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\215[m[K’ in program
+   42 | mode：表示当�[01;31m[K�[m[K无人机所处的模式，包括以下几种：
+      |                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:20:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   42 | mode：表示当前[01;31m[K�[m[K��人机所处的模式，包括以下几种：
+      |                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:21:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\227[m[K’ in program
+   42 | mode：表示当前�[01;31m[K�[m[K�人机所处的模式，包括以下几种：
+      |                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:22:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\240[m[K’ in program
+   42 | mode：表示当前�[01;31m[K�[m[K人机所处的模式，包括以下几种：
+      |                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   42 | mode：表示当前无[01;31m[K�[m[K��机所处的模式，包括以下几种：
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   42 | mode：表示当前无�[01;31m[K�[m[K�机所处的模式，包括以下几种：
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   42 | mode：表示当前无�[01;31m[K�[m[K机所处的模式，包括以下几种：
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:26:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   42 | mode：表示当前无人[01;31m[K�[m[K��所处的模式，包括以下几种：
+      |                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:27:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\234[m[K’ in program
+   42 | mode：表示当前无人�[01;31m[K�[m[K�所处的模式，包括以下几种：
+      |                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:28:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\272[m[K’ in program
+   42 | mode：表示当前无人�[01;31m[K�[m[K所处的模式，包括以下几种：
+      |                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:29:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   42 | mode：表示当前无人机[01;31m[K�[m[K��处的模式，包括以下几种：
+      |                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:30:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\211[m[K’ in program
+   42 | mode：表示当前无人机�[01;31m[K�[m[K�处的模式，包括以下几种：
+      |                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:31:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\200[m[K’ in program
+   42 | mode：表示当前无人机�[01;31m[K�[m[K处的模式，包括以下几种：
+      |                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示当前无人机所[01;31m[K�[m[K��的模式，包括以下几种：
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\244[m[K’ in program
+   42 | mode：表示当前无人机所�[01;31m[K�[m[K�的模式，包括以下几种：
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\204[m[K’ in program
+   42 | mode：表示当前无人机所�[01;31m[K�[m[K的模式，包括以下几种：
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   42 | mode：表示当前无人机所处[01;31m[K�[m[K��模式，包括以下几种：
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   42 | mode：表示当前无人机所处�[01;31m[K�[m[K�模式，包括以下几种：
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\204[m[K’ in program
+   42 | mode：表示当前无人机所处�[01;31m[K�[m[K模式，包括以下几种：
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:38:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   42 | mode：表示当前无人机所处的[01;31m[K�[m[K��式，包括以下几种：
+      |                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:39:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\250[m[K’ in program
+   42 | mode：表示当前无人机所处的�[01;31m[K�[m[K�式，包括以下几种：
+      |                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:40:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\241[m[K’ in program
+   42 | mode：表示当前无人机所处的�[01;31m[K�[m[K式，包括以下几种：
+      |                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:41:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示当前无人机所处的模[01;31m[K�[m[K��，包括以下几种：
+      |                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:42:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   42 | mode：表示当前无人机所处的模�[01;31m[K�[m[K�，包括以下几种：
+      |                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\217[m[K’ in program
+   42 | mode：表示当前无人机所处的模�[01;31m[K�[m[K，包括以下几种：
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   42 | mode：表示当前无人机所处的模式[01;31m[K�[m[K��包括以下几种：
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   42 | mode：表示当前无人机所处的模式�[01;31m[K�[m[K�包括以下几种：
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:46:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   42 | mode：表示当前无人机所处的模式�[01;31m[K�[m[K包括以下几种：
+      |                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，[01;31m[K�[m[K��括以下几种：
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，�[01;31m[K�[m[K�括以下几种：
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\205[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，�[01;31m[K�[m[K括以下几种：
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:50:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\346[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包[01;31m[K�[m[K��以下几种：
+      |                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:51:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包�[01;31m[K�[m[K�以下几种：
+      |                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:52:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\254[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包�[01;31m[K�[m[K以下几种：
+      |                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:53:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括[01;31m[K�[m[K��下几种：
+      |                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:54:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\273[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括�[01;31m[K�[m[K�下几种：
+      |                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:55:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\245[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括�[01;31m[K�[m[K下几种：
+      |                                                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:56:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\344[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以[01;31m[K�[m[K��几种：
+      |                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:57:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\270[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以�[01;31m[K�[m[K�几种：
+      |                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:58:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\213[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以�[01;31m[K�[m[K几种：
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:59:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\345[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下[01;31m[K�[m[K��种：
+      |                                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:60:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\207[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下�[01;31m[K�[m[K�种：
+      |                                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:61:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\240[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下�[01;31m[K�[m[K种：
+      |                                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:62:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\347[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几[01;31m[K�[m[K��：
+      |                                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:63:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\247[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几�[01;31m[K�[m[K�：
+      |                                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:64:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\215[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几�[01;31m[K�[m[K：
+      |                                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:65:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几种[01;31m[K�[m[K��
+      |                                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:66:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几种�[01;31m[K�[m[K�
+      |                                                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:42:67:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\232[m[K’ in program
+   42 | mode：表示当前无人机所处的模式，包括以下几种�[01;31m[K�[m[K
+      |                                                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:7:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL[01;31m[K�[m[K��ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:8:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL�[01;31m[K�[m[K�ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:9:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL�[01;31m[K�[m[KACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO[01;31m[K�[m[K��ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:15:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO�[01;31m[K�[m[K�ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:16:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO�[01;31m[K�[m[KALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL[01;31m[K�[m[K��POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL�[01;31m[K�[m[K�POSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL�[01;31m[K�[m[KPOSCTL，OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:32:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL[01;31m[K�[m[K��OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:33:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL�[01;31m[K�[m[K�OFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:34:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL�[01;31m[K�[m[KOFFBOARD，STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                  [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:43:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD[01;31m[K�[m[K��STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                           [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:44:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD�[01;31m[K�[m[K�STABILIZED，RATTITUDE，AUTO.MISSION
+      |                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:45:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD�[01;31m[K�[m[KSTABILIZED，RATTITUDE，AUTO.MISSION
+      |                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:56:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED[01;31m[K�[m[K��RATTITUDE，AUTO.MISSION
+      |                                                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:57:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED�[01;31m[K�[m[K�RATTITUDE，AUTO.MISSION
+      |                                                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:58:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED�[01;31m[K�[m[KRATTITUDE，AUTO.MISSION
+      |                                                          [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:68:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE[01;31m[K�[m[K��AUTO.MISSION
+      |                                                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:69:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE�[01;31m[K�[m[K�AUTO.MISSION
+      |                                                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:43:70:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   43 | MANUAL，ACRO，ALTCTL，POSCTL，OFFBOARD，STABILIZED，RATTITUDE�[01;31m[K�[m[KAUTO.MISSION
+      |                                                                      [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:12:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   44 | AUTO.LOITER[01;31m[K�[m[K��AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:13:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   44 | AUTO.LOITER�[01;31m[K�[m[K�AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:14:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   44 | AUTO.LOITER�[01;31m[K�[m[KAUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:23:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL[01;31m[K�[m[K��AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                       [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:24:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL�[01;31m[K�[m[K�AUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                        [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:25:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL�[01;31m[K�[m[KAUTO.LAND，AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                         [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:35:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND[01;31m[K�[m[K��AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                   [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:36:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND�[01;31m[K�[m[K�AUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                    [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:37:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND�[01;31m[K�[m[KAUTO.RTGS，AUTO.READY，AUTO.TAKEOFF
+      |                                     [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:47:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS[01;31m[K�[m[K��AUTO.READY，AUTO.TAKEOFF
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:48:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS�[01;31m[K�[m[K�AUTO.READY，AUTO.TAKEOFF
+      |                                                [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:49:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS�[01;31m[K�[m[KAUTO.READY，AUTO.TAKEOFF
+      |                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:60:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\357[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY[01;31m[K�[m[K��AUTO.TAKEOFF
+      |                                                            [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:61:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\274[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY�[01;31m[K�[m[K�AUTO.TAKEOFF
+      |                                                             [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:44:62:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\214[m[K’ in program
+   44 | AUTO.LOITER，AUTO.RTL，AUTO.LAND，AUTO.RTGS，AUTO.READY�[01;31m[K�[m[KAUTO.TAKEOFF
+      |                                                              [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:8:1:[m[K [01;31m[Kerror: [m[K‘[01m[Kuint8[m[K’ does not name a type; did you mean ‘[01m[Kuint[m[K’?
+    8 | [01;31m[Kuint8[m[K MAV_MODE_PREFLIGHT = 0
+      | [01;31m[K^~~~~[m[K
+      | [32m[Kuint[m[K
+In file included from [01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:11[m[K,
+                 from [01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:30[m[K:
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:166:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  166 | struct IsMessage< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                  [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:166:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:166:68:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  166 | struct IsMessage< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                    [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:166:70:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  166 | struct IsMessage< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                      [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:171:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  171 | struct IsMessage< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> const>
+      |                                  [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:171:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:171:68:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  171 | struct IsMessage< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K const>
+      |                                                                    [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:171:75:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  171 | struct IsMessage< ::mavros_msgs::SetModeRequest_<ContainerAllocator> const[01;31m[K>[m[K
+      |                                                                           [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:176:36:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  176 | struct IsFixedSize< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                    [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:176:36:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:176:70:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  176 | struct IsFixedSize< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                      [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:176:72:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  176 | struct IsFixedSize< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                        [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:181:36:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  181 | struct IsFixedSize< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> const>
+      |                                    [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:181:36:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:181:70:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  181 | struct IsFixedSize< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K const>
+      |                                                                      [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:181:77:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  181 | struct IsFixedSize< ::mavros_msgs::SetModeRequest_<ContainerAllocator> const[01;31m[K>[m[K
+      |                                                                             [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:186:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  186 | struct HasHeader< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                  [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:186:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:186:68:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  186 | struct HasHeader< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                    [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:186:70:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  186 | struct HasHeader< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                      [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:191:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  191 | struct HasHeader< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> const>
+      |                                  [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:191:34:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:191:68:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  191 | struct HasHeader< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K const>
+      |                                                                    [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:191:75:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  191 | struct HasHeader< ::mavros_msgs::SetModeRequest_<ContainerAllocator> const[01;31m[K>[m[K
+      |                                                                           [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:197:31:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  197 | struct MD5Sum< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                               [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:197:31:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:197:65:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  197 | struct MD5Sum< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                 [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:197:67:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  197 | struct MD5Sum< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                   [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:210:33:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  210 | struct DataType< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                 [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:210:33:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:210:67:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  210 | struct DataType< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                   [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:210:69:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  210 | struct DataType< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                     [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:221:35:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  221 | struct Definition< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                   [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:221:35:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:221:69:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  221 | struct Definition< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                     [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:221:71:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  221 | struct Definition< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                       [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:259:72:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  259 |   template<class ContainerAllocator> struct Serializer< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                                                        [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:259:72:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:259:106:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  259 |   template<class ContainerAllocator> struct Serializer< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                                                          [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:259:108:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  259 |   template<class ContainerAllocator> struct Serializer< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                                                            [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:279:32:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+  279 | struct Printer< ::mavros_msgs::[01;31m[KSetModeRequest_[m[K<ContainerAllocator> >
+      |                                [01;31m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:279:32:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest_[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:279:66:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+  279 | struct Printer< ::mavros_msgs::SetModeRequest_<ContainerAllocator[01;31m[K>[m[K >
+      |                                                                  [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetModeRequest.h:279:68:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K>[m[K’ token
+  279 | struct Printer< ::mavros_msgs::SetModeRequest_<ContainerAllocator> [01;31m[K>[m[K
+      |                                                                    [01;31m[K^[m[K
+In file included from [01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:30[m[K:
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:21:9:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest[m[K’ does not name a type; did you mean ‘[01m[KSetModeResponse[m[K’?
+   21 | typedef [01;31m[KSetModeRequest[m[K Request;
+      |         [01;31m[K^~~~~~~~~~~~~~[m[K
+      |         [32m[KSetModeResponse[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:23:1:[m[K [01;31m[Kerror: [m[K‘[01m[KRequest[m[K’ does not name a type
+   23 | [01;31m[KRequest[m[K request;
+      | [01;31m[K^~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:26:9:[m[K [01;31m[Kerror: [m[K‘[01m[KRequest[m[K’ does not name a type
+   26 | typedef [01;31m[KRequest[m[K RequestType;
+      |         [01;31m[K^~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:63:31:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’; did you mean ‘[01m[KSetModeResponse[m[K’?
+   63 | struct MD5Sum< ::mavros_msgs::[01;31m[KSetModeRequest[m[K>
+      |                               [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                               [32m[KSetModeResponse[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:63:31:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’; did you mean ‘[01m[KSetModeResponse[m[K’?
+   63 | struct MD5Sum< ::mavros_msgs::[01;31m[KSetModeRequest[m[K>
+      |                               [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                               [32m[KSetModeResponse[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:63:45:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   63 | struct MD5Sum< ::mavros_msgs::SetModeRequest[01;31m[K>[m[K
+      |                                             [01;31m[K^[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:78:33:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’; did you mean ‘[01m[KSetModeResponse[m[K’?
+   78 | struct DataType< ::mavros_msgs::[01;31m[KSetModeRequest[m[K>
+      |                                 [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                                 [32m[KSetModeResponse[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:78:33:[m[K [01;31m[Kerror: [m[K‘[01m[KSetModeRequest[m[K’ is not a member of ‘[01m[Kmavros_msgs[m[K’; did you mean ‘[01m[KSetModeResponse[m[K’?
+   78 | struct DataType< ::mavros_msgs::[01;31m[KSetModeRequest[m[K>
+      |                                 [01;31m[K^~~~~~~~~~~~~~[m[K
+      |                                 [32m[KSetModeResponse[m[K
+[01m[K/opt/ros/noetic/include/mavros_msgs/SetMode.h:78:47:[m[K [01;31m[Kerror: [m[Ktemplate argument 1 is invalid
+   78 | struct DataType< ::mavros_msgs::SetModeRequest[01;31m[K>[m[K
+      |                                               [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:38:1:[m[K [01;31m[Kerror: [m[K‘[01m[Kheader[m[K’ does not name a type
+   38 | [01;31m[Kheader[m[K：消息头，包含时间戳和框架信息；
+      | [01;31m[K^~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kvoid state_cb(const ConstPtr&)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:50:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope
+   50 |     [01;31m[Kcurrent_state[m[K = *msg;
+      |     [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kvoid target_callback(const ConstPtr&)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:129:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kdetect_receive_flag[m[K’ was not declared in this scope
+  129 |         [01;31m[Kdetect_receive_flag[m[K = True
+      |         [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:129:31:[m[K [01;31m[Kerror: [m[K‘[01m[KTrue[m[K’ was not declared in this scope
+  129 |         detect_receive_flag = [01;31m[KTrue[m[K
+      |                               [01;31m[K^~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:134:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+  134 |         [01;31m[Kelse[m[K
+      |         [01;31m[K^~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:136:11:[m[K [01;31m[Kerror: [m[K‘[01m[Kaim_flag[m[K’ was not declared in this scope
+  136 |           [01;31m[Kaim_flag[m[K = False;
+      |           [01;31m[K^~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:136:22:[m[K [01;31m[Kerror: [m[K‘[01m[KFalse[m[K’ was not declared in this scope
+  136 |           aim_flag = [01;31m[KFalse[m[K;
+      |                      [01;31m[K^~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:171:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope; did you mean ‘[01m[Kcurrent_vel[m[K’?
+  171 |     while(ros::ok() && ![01;31m[Kcurrent_state[m[K.connected){
+      |                         [01;31m[K^~~~~~~~~~~~~[m[K
+      |                         [32m[Kcurrent_vel[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:187:19:[m[K [01;31m[Kerror: [m[K‘[01m[Kstruct mavros_msgs::SetMode[m[K’ has no member named ‘[01m[Krequest[m[K’
+  187 |     offb_set_mode.[01;31m[Krequest[m[K.custom_mode = "MANUAL";
+      |                   [01;31m[K^~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:202:13:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope; did you mean ‘[01m[Kcurrent_vel[m[K’?
+  202 |         if( [01;31m[Kcurrent_state[m[K.mode != "MANUAL" && (ros::Time::now() - last_request > ros::Duration(3.0)))
+      |             [01;31m[K^~~~~~~~~~~~~[m[K
+      |             [32m[Kcurrent_vel[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:204:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kaim_flag[m[K’ was not declared in this scope
+  204 |             if([01;31m[Kaim_flag[m[K == true)
+      |                [01;31m[K^~~~~~~~[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/node_handle.h:35[m[K,
+                 from [01m[K/opt/ros/noetic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:1[m[K:
+/opt/ros/noetic/include/ros/service_client.h: In instantiation of ‘[01m[Kbool ros::ServiceClient::call(Service&) [with Service = mavros_msgs::SetMode][m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:206:55:[m[K   required from here
+[01m[K/opt/ros/noetic/include/ros/service_client.h:91:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kstruct mavros_msgs::SetMode[m[K’ has no member named ‘[01m[Krequest[m[K’
+   91 |     return call([01;31m[Kservice.request[m[K, service.response, st::md5sum(service));
+      |                 [01;31m[K~~~~~~~~^~~~~~~[m[K
+make[2]: *** [CMakeFiles/set_mode.dir/build.make:63: CMakeFiles/set_mode.dir/src/set_mode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/set_mode.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

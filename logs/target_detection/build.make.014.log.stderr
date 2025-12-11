@@ -1,0 +1,38 @@
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:25:1:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[Kbool[m[K’
+   25 | [01;31m[Kbool[m[K aim_flag
+      | [01;31m[K^~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kvoid state_cb(const ConstPtr&)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:45:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope
+   45 |     [01;31m[Kcurrent_state[m[K = *msg;
+      |     [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kvoid target_callback(const ConstPtr&)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:124:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kdetect_receive_flag[m[K’ was not declared in this scope
+  124 |         [01;31m[Kdetect_receive_flag[m[K = True
+      |         [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:124:31:[m[K [01;31m[Kerror: [m[K‘[01m[KTrue[m[K’ was not declared in this scope
+  124 |         detect_receive_flag = [01;31m[KTrue[m[K
+      |                               [01;31m[K^~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:129:9:[m[K [01;31m[Kerror: [m[K‘[01m[Kelse[m[K’ without a previous ‘[01m[Kif[m[K’
+  129 |         [01;31m[Kelse[m[K
+      |         [01;31m[K^~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:131:11:[m[K [01;31m[Kerror: [m[K‘[01m[Kaim_flag[m[K’ was not declared in this scope
+  131 |           [01;31m[Kaim_flag[m[K = False;
+      |           [01;31m[K^~~~~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:131:22:[m[K [01;31m[Kerror: [m[K‘[01m[KFalse[m[K’ was not declared in this scope
+  131 |           aim_flag = [01;31m[KFalse[m[K;
+      |                      [01;31m[K^~~~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:166:25:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope; did you mean ‘[01m[Kcurrent_vel[m[K’?
+  166 |     while(ros::ok() && ![01;31m[Kcurrent_state[m[K.connected){
+      |                         [01;31m[K^~~~~~~~~~~~~[m[K
+      |                         [32m[Kcurrent_vel[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:197:13:[m[K [01;31m[Kerror: [m[K‘[01m[Kcurrent_state[m[K’ was not declared in this scope; did you mean ‘[01m[Kcurrent_vel[m[K’?
+  197 |         if( [01;31m[Kcurrent_state[m[K.mode != "MANUAL" && (ros::Time::now() - last_request > ros::Duration(3.0)))
+      |             [01;31m[K^~~~~~~~~~~~~[m[K
+      |             [32m[Kcurrent_vel[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:199:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kaim_flag[m[K’ was not declared in this scope
+  199 |             if([01;31m[Kaim_flag[m[K == true)
+      |                [01;31m[K^~~~~~~~[m[K
+make[2]: *** [CMakeFiles/set_mode.dir/build.make:63: CMakeFiles/set_mode.dir/src/set_mode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/set_mode.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

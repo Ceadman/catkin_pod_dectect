@@ -1,0 +1,6 @@
+devel_space: /home/nvidia/catkin_pod_dectect/devel
+install: false
+install_space: /home/nvidia/catkin_pod_dectect/install
+profile: default
+source_space: /home/nvidia/catkin_pod_dectect/src
+workspace: /home/nvidia/catkin_pod_dectect

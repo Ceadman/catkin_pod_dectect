@@ -1,0 +1,29 @@
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:122:43:[m[K [01;31m[Kerror: [m[K‘[01m[KPointStamped[m[K’ in namespace ‘[01m[Kgeometry_msgs[m[K’ does not name a type; did you mean ‘[01m[KTwistStamped[m[K’?
+  122 | void target_callback(const geometry_msgs::[01;31m[KPointStamped[m[K::ConstPtr& msg){
+      |                                           [01;31m[K^~~~~~~~~~~~[m[K
+      |                                           [32m[KTwistStamped[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:122:65:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[K&[m[K’ token
+  122 | void target_callback(const geometry_msgs::PointStamped::ConstPtr[01;31m[K&[m[K msg){
+      |                                                                 [01;31m[K^[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:122:65:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K&[m[K’ token
+  122 | void target_callback[34m[K([m[Kconst geometry_msgs::PointStamped::ConstPtr[01;31m[K&[m[K msg){
+      |                     [34m[K~[m[K                                           [01;31m[K^[m[K
+      |                                                                 [32m[K)[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:122:67:[m[K [01;31m[Kerror: [m[Kexpected initializer before ‘[01m[Kmsg[m[K’
+  122 | void target_callback(const geometry_msgs::PointStamped::ConstPtr& [01;31m[Kmsg[m[K){
+      |                                                                   [01;31m[K^~~[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:148:59:[m[K [01;31m[Kerror: [m[K‘[01m[KPointStamped[m[K’ is not a member of ‘[01m[Kgeometry_msgs[m[K’; did you mean ‘[01m[KTwistStamped[m[K’?
+  148 |     ros::Subscriber tar_sub = nh.subscribe<geometry_msgs::[01;31m[KPointStamped[m[K>("/detection/ultralytics/img_link_target_pub", 10, target_callback);
+      |                                                           [01;31m[K^~~~~~~~~~~~[m[K
+      |                                                           [32m[KTwistStamped[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:148:59:[m[K [01;31m[Kerror: [m[K‘[01m[KPointStamped[m[K’ is not a member of ‘[01m[Kgeometry_msgs[m[K’; did you mean ‘[01m[KTwistStamped[m[K’?
+  148 |     ros::Subscriber tar_sub = nh.subscribe<geometry_msgs::[01;31m[KPointStamped[m[K>("/detection/ultralytics/img_link_target_pub", 10, target_callback);
+      |                                                           [01;31m[K^~~~~~~~~~~~[m[K
+      |                                                           [32m[KTwistStamped[m[K
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:148:123:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_callback[m[K’ was not declared in this scope
+  148 |     ros::Subscriber tar_sub = nh.subscribe<geometry_msgs::PointStamped>("/detection/ultralytics/img_link_target_pub", 10, [01;31m[Ktarget_callback[m[K);
+      |                                                                                                                           [01;31m[K^~~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/set_mode.dir/build.make:63: CMakeFiles/set_mode.dir/src/set_mode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/set_mode.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

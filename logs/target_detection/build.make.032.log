@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target set_mode[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/set_mode.dir/src/set_mode.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/nvidia/catkin_pod_dectect/devel/.private/target_detection/lib/target_detection/set_mode[0m
+[100%] Built target set_mode

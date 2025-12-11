@@ -1,0 +1,5 @@
+UAV_control
+/home/nvidia/catkin_pod_dectect/devel/.private/uav_control/share/uav_control/cmake/uav_controlConfig.cmake /home/nvidia/catkin_pod_dectect/devel/share/uav_control/cmake/uav_controlConfig.cmake
+/home/nvidia/catkin_pod_dectect/devel/.private/uav_control/share/uav_control/cmake/uav_controlConfig-version.cmake /home/nvidia/catkin_pod_dectect/devel/share/uav_control/cmake/uav_controlConfig-version.cmake
+/home/nvidia/catkin_pod_dectect/devel/.private/uav_control/lib/pkgconfig/uav_control.pc /home/nvidia/catkin_pod_dectect/devel/lib/pkgconfig/uav_control.pc
+/home/nvidia/catkin_pod_dectect/devel/.private/uav_control/lib/uav_control/uav_control /home/nvidia/catkin_pod_dectect/devel/lib/uav_control/uav_control

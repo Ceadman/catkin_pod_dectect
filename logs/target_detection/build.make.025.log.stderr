@@ -1,0 +1,7 @@
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kvoid target_callback(const ConstPtr&)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:124:17:[m[K [01;31m[Kerror: [m[K‘[01m[Kconst ConstPtr[m[K’ {aka ‘[01m[Kconst class boost::shared_ptr<const geometry_msgs::PointStamped_<std::allocator<void> > >[m[K’} has no member named ‘[01m[Kheader[m[K’
+  124 |         if(&msg.[01;31m[Kheader[m[K.frame_id == "Image_Frame_AIM")
+      |                 [01;31m[K^~~~~~[m[K
+make[2]: *** [CMakeFiles/set_mode.dir/build.make:63: CMakeFiles/set_mode.dir/src/set_mode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/set_mode.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

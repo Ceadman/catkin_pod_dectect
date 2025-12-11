@@ -1,0 +1,1 @@
+/home/nvidia/catkin_pod_dectect/devel/.private/catkin_tools_prebuild/local_setup.sh

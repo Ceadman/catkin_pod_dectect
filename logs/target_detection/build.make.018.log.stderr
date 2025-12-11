@@ -1,0 +1,7 @@
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/nvidia/catkin_pod_dectect/src/target_detection/src/set_mode.cpp:137:122:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_callback[m[K’ was not declared in this scope
+  137 |     ros::Subscriber tar_sub = nh.subscribe<geometry_msgs::PoseStamped>("/detection/ultralytics/img_link_target_pub", 10, [01;31m[Ktarget_callback[m[K);
+      |                                                                                                                          [01;31m[K^~~~~~~~~~~~~~~[m[K
+make[2]: *** [CMakeFiles/set_mode.dir/build.make:63: CMakeFiles/set_mode.dir/src/set_mode.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/set_mode.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2
