@@ -1,0 +1,42 @@
+Q_ng: 1
+Q_na: 0.8
+Q_nba: 0.02
+Q_nbg: 0.02
+
+R_pos: 0.004
+R_rota: 0.004
+
+offset_camera2imu_x: 0.22
+offset_camera2imu_y: 0
+offset_camera2imu_z: 0
+
+offset_docking_x: 0
+offset_docking_y: 0
+offset_docking_z: 0
+
+pos_kp_x: 0.30
+pos_ki_x: 0.002
+pos_kd_x: 0.02
+pos_ol_x: 7.00
+pos_sp_x: 1.20
+
+pos_kp_y: 0.50
+pos_ki_y: 0.005
+pos_kd_y: 0.02
+pos_ol_y: 15.00
+pos_sp_y: 1.20
+
+height_kp: 0.50
+height_ki: 0.005
+height_kd: 0.02
+height_ol: 10.00
+height_sp: 1.20
+
+S_pos: 1
+S_vec: 0.5
+
+Q_pos: 1
+Q_vec: 1
+
+R_x: 1
+R_y: 1
