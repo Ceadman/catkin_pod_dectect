@@ -1,8 +1,0 @@
-prefix=/home/nvidia/catkin_pod_dectect/install
-
-Name: uav_control_pack
-Description: Description of uav_control_pack
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
