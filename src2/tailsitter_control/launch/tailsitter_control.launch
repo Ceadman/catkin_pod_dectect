@@ -1,5 +1,0 @@
-<launch>
-	<node pkg="target_detection" type="pod_communication.py" name="pod_communication" output="screen"/>
-	<node pkg="tailsitter_control" type="blended_guidance.py" name="blended_guidance" output="screen"/> 
-	<node pkg="tailsitter_control" type="tailsitter_control" name="tailsitter_control" output="screen"/>
-</launch>

@@ -1,5 +1,0 @@
-<launch>
-	<node pkg="target_detection" type="pod_image_receive.py" name="pod_image_receive" output="screen"/>
-	<node pkg="target_detection" type="image_detect.py" name="image_detect"/>
-	<node pkg="target_detection" type="pod_communication_measure.py" name="pod_communication_measure" output="screen"/>
-</launch>
