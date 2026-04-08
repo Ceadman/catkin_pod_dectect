@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="target_detection" type="stereo_detect_raw.py" name="stereo_detect_raw"/>
+	<node pkg="tailsitter_control" type="pn_guidance_stereo_sitl_raw.py" name="pn_guidance_stereo_sitl_raw" output="screen"/>
+	<node pkg="tailsitter_control" type="tailsitter_control_sitl_raw" name="tailsitter_control_sitl_raw" output="screen"/>
+</launch>
