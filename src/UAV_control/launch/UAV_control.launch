@@ -1,3 +1,0 @@
-<launch>
-	<node pkg="uav_control_pack" type="uav_control" name="uav_control" output="screen"/>
-</launch>
