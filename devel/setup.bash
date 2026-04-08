@@ -1,1 +1,0 @@
-/home/nvidia/catkin_pod_dectect/devel/.private/catkin_tools_prebuild/setup.bash
